@@ -9,5 +9,6 @@ target 'SwiftUIRestaurant' do
 
   pod 'Firebase/Core'
   pod 'Firebase/Auth'
+  pod 'AppCenter'
 
 end
