@@ -7,6 +7,8 @@
 
 import SwiftUI
 import FirebaseAuth
+import AppCenter
+import AppCenterCrashes
 
 class AppViewModel: ObservableObject{
     
@@ -72,6 +74,7 @@ struct Login: View {
                   
                   Button(action: {
                       guard !email.isEmpty, !password.isEmpty else{
+                          Crashes.generateTestCrash()
                           return
                       }
                       viewModel.signIn(email: email, password: password)
