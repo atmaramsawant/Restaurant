@@ -7,6 +7,8 @@
 
 import SwiftUI
 import FirebaseAuth
+import AppCenter
+import AppCenterCrashes
 
 class AppViewModel: ObservableObject{
     
