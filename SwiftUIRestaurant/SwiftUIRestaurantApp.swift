@@ -28,7 +28,7 @@ struct SwiftUIRestaurantApp: App {
 class AppDelegate: NSObject, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil) -> Bool {
         FirebaseApp.configure()
-        AppCenter.start(withAppSecret: "e8b55849-c621-450c-8cb8-3c20da315ba3", services:[
+        AppCenter.start(withAppSecret: "128f8e5b-e8de-45a5-a791-6bce081b4d26", services:[
           Analytics.self,
           Crashes.self
         ])
