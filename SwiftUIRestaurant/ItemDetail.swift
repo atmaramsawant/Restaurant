@@ -28,7 +28,7 @@ struct ItemDetail: View {
             }
             Text(item.description)
               .padding()
-            Button("Order This"){
+            Button("Order"){
                 order.add(item: item)
             }
             .font(.headline)

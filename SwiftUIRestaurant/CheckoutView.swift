@@ -13,7 +13,7 @@ struct CheckoutView: View {
     @State private var addLoyaltyDetails = false
     @State private var loyaltyNumber = ""
     let tipAmounts = [10, 15, 20, 25, 0]
-    @State var tipAmount = 15
+    @State var tipAmount = 10
     @State private var showingPaymentAlert = false
     
     var totalPrice: String {
