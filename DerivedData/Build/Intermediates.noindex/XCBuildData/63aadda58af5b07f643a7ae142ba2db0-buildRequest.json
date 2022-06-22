@@ -1,0 +1,77 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "84212c2024699938ca4910c0a619a93424bfb77a7fe56f6aba56663ae2c6b469"
+    },
+    {
+      "guid" : "84212c2024699938ca4910c0a619a934955fda87c5c9accd917f5260fda009ac"
+    },
+    {
+      "guid" : "84212c2024699938ca4910c0a619a9343a08da8b2450880047e4987cbcbd83ef"
+    }
+  ],
+  "containerPath" : "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphoneos15.4"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "96",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "test",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
