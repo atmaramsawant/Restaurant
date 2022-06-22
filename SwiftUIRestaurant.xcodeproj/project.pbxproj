@@ -75,6 +75,7 @@
 		DCF3F806285C73860083C3D7 /* SwiftUIRestaurantUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIRestaurantUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		DCF3F811285C739F0083C3D7 /* SwiftUIRestaurantTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIRestaurantTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCF3F813285C739F0083C3D7 /* SwiftUIRestaurantTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIRestaurantTests.swift; sourceTree = "<group>"; };
+		DCF3F81A285CED690083C3D7 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +162,7 @@
 		743B8D5D9EBC799E23443C5C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				DCF3F81A285CED690083C3D7 /* XCTest.framework */,
 				10D8C1C3029BB86AD9D332E8 /* Pods_SwiftUIRestaurant.framework */,
 			);
 			name = Frameworks;
@@ -468,7 +470,10 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
-				LD_RUNPATH_SEARCH_PATHS = "“@executable_path/Frameworks\"";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -524,7 +529,10 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
-				LD_RUNPATH_SEARCH_PATHS = "“@executable_path/Frameworks\"";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
