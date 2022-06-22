@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORFlatFileStorage+Promises.m \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/GoogleDataTransport.build/module.modulemap \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORFlatFileStorage+Promises.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORFlatFileStorage.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORLifecycle.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORPlatform.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageEventSelector.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORTargets.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageProtocol.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromises.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/PromisesObjC.build/module.modulemap \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Wrap.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Validate.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Timeout.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Then.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Testing.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Retry.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Reduce.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Recover.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Race.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Do.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Delay.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Catch.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Await.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Async.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Any.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Always.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromiseError.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/DerivedData/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+All.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/sji-mac/Desktop/SwiftUIRestaurant/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORUploadBatch.h

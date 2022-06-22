@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "05099e7997568e2bc732b4ed2c466e6836b1770ca19a001b7d9c6c17cc81d711"
+build_start_time: [1655488122, 322513103]
+build_end_time: [1655488126, 379745006]
+inputs:
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurantTests/SwiftUIRestaurantTests.swift": [1655454751, 107487678]

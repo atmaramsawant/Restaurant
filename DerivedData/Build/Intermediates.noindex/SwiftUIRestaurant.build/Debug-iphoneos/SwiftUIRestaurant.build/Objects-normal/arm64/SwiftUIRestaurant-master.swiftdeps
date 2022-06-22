@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "d33492a7200588b8633621a4cbad0debd7c82a5d77cedfe768b33dd629495dfa"
+build_start_time: [1655488113, 377365112]
+build_end_time: [1655488118, 795442104]
+inputs:
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/CheckoutView.swift": [1655392305, 264169931]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/ContentView.swift": [1638433055, 630156755]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/Helper.swift": [1568651210, 0]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/ItemDetail.swift": [1655454764, 254487037]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/ItemRow.swift": [1655133947, 567294597]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/Login.swift": [1655461928, 549194574]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/MainView.swift": [1626976997, 0]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/Menu.swift": [1655271580, 116168022]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/MenuContainerView.swift": [1638451720, 673102617]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/Order.swift": [1620995773, 0]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/OrderView.swift": [1622138878, 0]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/Signup.swift": [1638427229, 662915945]
+  "/Users/sji-mac/Desktop/SwiftUIRestaurant/SwiftUIRestaurant/SwiftUIRestaurantApp.swift": [1655218181, 669012069]

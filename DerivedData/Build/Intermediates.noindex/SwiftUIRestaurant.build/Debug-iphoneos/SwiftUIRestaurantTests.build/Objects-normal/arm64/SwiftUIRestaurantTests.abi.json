@@ -1,0 +1,285 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "XCTest",
+      "printedName": "XCTest",
+      "declKind": "Import",
+      "moduleName": "SwiftUIRestaurantTests",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "SwiftUIRestaurantTests",
+      "printedName": "SwiftUIRestaurantTests",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "setUpWithError",
+          "printedName": "setUpWithError()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests(im)setUpWithError:",
+          "mangledName": "$s22SwiftUIRestaurantTestsAAC14setUpWithErroryyKF",
+          "moduleName": "SwiftUIRestaurantTests",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "setUpWithError:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "tearDownWithError",
+          "printedName": "tearDownWithError()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests(im)tearDownWithError:",
+          "mangledName": "$s22SwiftUIRestaurantTestsAAC17tearDownWithErroryyKF",
+          "moduleName": "SwiftUIRestaurantTests",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "tearDownWithError:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "testExample",
+          "printedName": "testExample()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests(im)testExampleAndReturnError:",
+          "mangledName": "$s22SwiftUIRestaurantTestsAAC11testExampleyyKF",
+          "moduleName": "SwiftUIRestaurantTests",
+          "isOpen": true,
+          "declAttributes": [
+            "ObjC"
+          ],
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "testPerformanceExample",
+          "printedName": "testPerformanceExample()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests(im)testPerformanceExampleAndReturnError:",
+          "mangledName": "$s22SwiftUIRestaurantTestsAAC22testPerformanceExampleyyKF",
+          "moduleName": "SwiftUIRestaurantTests",
+          "isOpen": true,
+          "declAttributes": [
+            "ObjC"
+          ],
+          "throwing": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(invocation:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SwiftUIRestaurantTests",
+              "printedName": "SwiftUIRestaurantTests.SwiftUIRestaurantTests",
+              "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "Foundation.NSInvocation?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "NSInvocation",
+                  "printedName": "Foundation.NSInvocation",
+                  "usr": "c:objc(cs)NSInvocation"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests(im)initWithInvocation:",
+          "mangledName": "$s22SwiftUIRestaurantTestsAAC10invocationABSo12NSInvocationCSg_tcfc",
+          "moduleName": "SwiftUIRestaurantTests",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithInvocation:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(selector:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SwiftUIRestaurantTests",
+              "printedName": "SwiftUIRestaurantTests.SwiftUIRestaurantTests",
+              "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Selector",
+              "printedName": "ObjectiveC.Selector",
+              "usr": "s:10ObjectiveC8SelectorV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests(im)initWithSelector:",
+          "mangledName": "$s22SwiftUIRestaurantTestsAAC8selectorAB10ObjectiveC8SelectorV_tcfc",
+          "moduleName": "SwiftUIRestaurantTests",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithSelector:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SwiftUIRestaurantTests",
+              "printedName": "SwiftUIRestaurantTests.SwiftUIRestaurantTests",
+              "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests(im)init",
+          "mangledName": "$s22SwiftUIRestaurantTestsAACABycfc",
+          "moduleName": "SwiftUIRestaurantTests",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "init",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@SwiftUIRestaurantTests@objc(cs)SwiftUIRestaurantTests",
+      "mangledName": "$s22SwiftUIRestaurantTestsAAC",
+      "moduleName": "SwiftUIRestaurantTests",
+      "isOpen": true,
+      "declAttributes": [
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)XCTestCase",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "XCTest.XCTestCase",
+        "XCTest.XCTest",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}
