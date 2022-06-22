@@ -20,6 +20,34 @@
                ReferencedContainer = "container:SwiftUIRestaurant.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DCF3F801285C73860083C3D7"
+               BuildableName = "SwiftUIRestaurantUITests.xctest"
+               BlueprintName = "SwiftUIRestaurantUITests"
+               ReferencedContainer = "container:SwiftUIRestaurant.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DCF3F810285C739F0083C3D7"
+               BuildableName = "SwiftUIRestaurantTests.xctest"
+               BlueprintName = "SwiftUIRestaurantTests"
+               ReferencedContainer = "container:SwiftUIRestaurant.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -28,6 +56,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DCF3F801285C73860083C3D7"
+               BuildableName = "SwiftUIRestaurantUITests.xctest"
+               BlueprintName = "SwiftUIRestaurantUITests"
+               ReferencedContainer = "container:SwiftUIRestaurant.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DCF3F810285C739F0083C3D7"
+               BuildableName = "SwiftUIRestaurantTests.xctest"
+               BlueprintName = "SwiftUIRestaurantTests"
+               ReferencedContainer = "container:SwiftUIRestaurant.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction

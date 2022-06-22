@@ -71,6 +71,7 @@ struct Login: View {
                       .cornerRadius(5)
                       .disableAutocorrection(true)
                       .autocapitalization(.none)
+                      .accessibilityIdentifier("email")
                   
                   Button(action: {
                       guard !email.isEmpty, !password.isEmpty else{
